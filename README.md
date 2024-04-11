@@ -32,7 +32,7 @@ I'm always open to connecting with fellow tech enthusiasts, whether it's for a p
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
+- GitHub: [aidanMarroyo](https://github.com/YourGitHubUsername)
 - Email: aidanMarroyo@gmail.com
 
 Let's build something great together!
